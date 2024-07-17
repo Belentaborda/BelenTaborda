@@ -1,16 +1,11 @@
-## Hi there 👋
+¡Hola! Soy Belen Taborda 👩🏻💻. 
+Licenciada en Psicología y Full Stack Development. 
+Apasionada por la programación y el trabajo en equipo. 
 
-<!--
-**Belentaborda/BelenTaborda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Repositorio en constante evolución 🚀
+Este repositorio es un espacio dinámico donde comparto proyectos, ideas y aprendizajes. En este espacio pueden encontrar:
+  📌 Proyectos con distintas tecnologías: Desde aplicaciones CRUD hasta proyectos más complejos con autenticación y relaciones entre tablas.
+  📌 Colaboraciones: Trabajos realizados en equipo que reflejan mi pasión por el trabajo colaborativo.
+  📌 Experimentos y Pruebas: Espacios donde exploro nuevas tecnologías y enfoques.
+  
+Siempre estoy abierta a sugerencias, mejoras y nuevas ideas 🌈
