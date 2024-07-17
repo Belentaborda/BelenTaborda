@@ -1,4 +1,4 @@
-¡Hola! Soy Belen Taborda 👩🏻💻. 
+                                                                    ¡Hola! Soy Belen Taborda 👩🏻💻. 
 
 Licenciada en Psicología y Full Stack Development. 
 Apasionada por la programación y el trabajo en equipo. 
