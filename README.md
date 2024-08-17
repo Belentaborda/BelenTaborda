@@ -1,6 +1,6 @@
                                                     ¡Hola mundo! Soy Belen Taborda 👩🏻💻. 
 
-Full Stack Development y Licenciada en Psicología 
+Full Stack Development y Licenciada en Psicología.
 Apasionada por la programación y el trabajo en equipo. 
 
 🚀 Repositorio en constante evolución 🚀.
