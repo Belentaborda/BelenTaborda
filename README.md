@@ -1,17 +1,14 @@
                                                     ¡Hola mundo! Soy Belen Taborda 👩🏻💻. 
 
-Full Stack Development y Licenciada en Psicología.
-Apasionada por la programación y el trabajo en equipo. 
+Apasionada por los datos, la programación y el trabajo en equipo.
+Actualmente me desempeño en el área de Data Analytics, con conocimientos en SQL, BigQuery, Python, Java y JavaScript.
 
-🚀 Repositorio en constante evolución 🚀.
+🚀 Este repositorio refleja mi camino de aprendizaje y crecimiento:
 
-Este repositorio es un espacio dinámico donde comparto proyectos, ideas y aprendizajes. En este espacio pueden encontrar:
+📊 Proyectos de análisis y visualización de datos.
 
-  📌 Proyectos open code con distintas tecnologías: Desde aplicaciones CRUD hasta proyectos más complejos con autenticación y relaciones entre tablas.
+💻 Aplicaciones y experimentos en desarrollo Back-End y Front-End.
 
-  📌 Colaboraciones: Trabajos realizados en equipo que reflejan mi pasión por el trabajo colaborativo.
+🤝 Colaboraciones que destacan mi compromiso con el trabajo en equipo.
 
-  📌 Experimentos y Pruebas: Espacios donde exploro nuevas tecnologías y enfoques.
-  
-
-Siempre estoy abierta a sugerencias, mejoras y nuevas ideas 🌈
+Siempre abierta a nuevas ideas, mejoras y desafíos  🌈
